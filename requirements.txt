@@ -2,5 +2,5 @@ pandas
 scikit-learn
 numpy
 matplotlib
-skops
+skops==0.9.0
 black
